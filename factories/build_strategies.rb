@@ -44,3 +44,4 @@ end
 post = build(:post)
 post.new_record?        # => true
 post.author.new_record? # => true
+
